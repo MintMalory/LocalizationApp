@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocalizationApp</string>
+    <string name="option_menu_name">Change language</string>
+
+    <!--main screen-->
+    <string name="current_locale">English</string>
+
+    <!--options screen-->
+    <string name="choose_lng">Choose language</string>
+    <string name="ru_language">Русский</string>
+    <string name="en_language">English</string>
+    <string name="uk_language">Українська</string>
+    <string name="ok_btn_name">OK</string>
+    <string name="restart_msg">Restart application</string>
+</resources>
