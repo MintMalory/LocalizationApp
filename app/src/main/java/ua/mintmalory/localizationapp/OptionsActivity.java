@@ -44,8 +44,6 @@ public class OptionsActivity extends AppCompatActivity {
         mOkBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getApplicationContext(),
-                        getString(R.string.restart_msg), Toast.LENGTH_LONG).show();
                 mLang = "en";
                 if (mUkrRadioBtn.isChecked()) {
                     mLang = "uk";
